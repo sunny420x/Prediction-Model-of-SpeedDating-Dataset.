@@ -1,6 +1,6 @@
 # SpeedDating Matches Prediction Model.
 SpeedDating Dataset Prediction on Google Colab (Jupyter Notebook) using LinearRegression a statistical model to fit and predict.
-
+<hr>
 X train size: 6702<br>
 X test size: 1676<br>
 Y train size: 6702<br>
